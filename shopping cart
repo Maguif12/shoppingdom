@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="..style.css">
+    <title>Shopping cart</title>
+</head>
+<body>
+    <header>
+ <h1> My shopping Cart</h1>
+    </header>
+
+    <section class="container">
+    <!--Conteneur des elements-->
+    <div class="container_items">
+        <div class="item">
+            <span class="titre-article">Peluche Brun</span>
+            <img src="https://www.idmarket.com/15878/ours-en-peluche-geant-200-cm-brun.jpg" alt="" class="img-item" width="300px">
+            <span class="prix-article">$250</span>
+            <div class="wrapper">
+                <span class="minus">-</span>
+                <span class="num">01</span>
+                <span class="plus">+</span>
+            </div>
+            <Button id="btnh1" class="btn"> <img src="https://static.vecteezy.com/system/resources/previews/000/568/303/original/heart-icon-vector.jpg" width="30px"> </Button>
+            <img src="https://static.vecteezy.com/ti/vecteur-libre/p2/568123-poubelle-icone-gratuit-vectoriel.jpg" width="30px">
+        </div>
+        <div class="item">
+            <span class="titre-article">Peluche Rouge</span>
+            <img src="https://www.latribudesnomades.com/wip/img_bdd/image/1575457781.jpg" alt="" class="img-item" width="300px">
+            <span class="prix-article">$350</span>
+            <div class="wrapper1">
+                <span class="minus">-</span>
+                <span class="num">01</span>
+                <span class="plus">+</span>
+            </div>
+            <Button id="btnh1" class="btn"> <img src="https://static.vecteezy.com/system/resources/previews/000/568/303/original/heart-icon-vector.jpg" width="30px"> </Button>
+            <img src="https://static.vecteezy.com/ti/vecteur-libre/p2/568123-poubelle-icone-gratuit-vectoriel.jpg" width="40px">
+        </div>
+        <div class="item">
+            <span class="titre-article">Peluche Rose</span>
+            <img src="http://i2.cdscdn.com/pdt2/3/1/2/1/700x700/gun0028399210312/rw/gund-peluche-ours-my-first-teddy-rose-61-cm.jpg" alt="" class="img-item" width="300px">
+            <span class="prix-article">$490</span>
+            <div class="wrapper2">
+                <span class="minus">-</span>
+                <span class="num">01</span>
+                <span class="plus">+</span>
+            </div>
+            <Button id="btnh1" class="btn"> <img src="https://static.vecteezy.com/system/resources/previews/000/568/303/original/heart-icon-vector.jpg" width="30px"> </Button>
+            <img src="https://static.vecteezy.com/ti/vecteur-libre/p2/568123-poubelle-icone-gratuit-vectoriel.jpg" width="40px">
+        </div>
+        <div class="item">
+            <span class="titre-article">Peluche Bleu</span>
+            <img src="https://www.titoursfrance.com/wp-content/uploads/2020/08/titours-france-Ours-en-peluche-geant-80-cm-doudou-et-compagnie-bleu-ciel.jpg" alt="" class="img-item" width="300px">
+            <span class="prix-article">$650</span>
+            <div class="wrapper3">
+                <span class="minus">-</span>
+                <span class="num">01</span>
+                <span class="plus">+</span>
+            </div>
+            <Button id="btnh1" class="btn"> <img src="https://static.vecteezy.com/system/resources/previews/000/568/303/original/heart-icon-vector.jpg" width="30px"> </Button>
+            <img src="https://static.vecteezy.com/ti/vecteur-libre/p2/568123-poubelle-icone-gratuit-vectoriel.jpg" width="40px">
+        </div>
+        <script src="app.js"></script>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+            </body>
+            </html>
+
+           
